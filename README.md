@@ -1,1 +1,1 @@
-This is a repository for practical instructons on popgen courses.
+This is a repository for instructons for practicals/workshops I have given.
